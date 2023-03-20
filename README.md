@@ -1,7 +1,7 @@
 # Taller No. 3
 ## Autores
 - Santiago Zúñiga
-- Mauren Ribera
+- Mauren Rivera
 
 # Ejecución
 
